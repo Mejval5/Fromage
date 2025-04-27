@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td style="vertical-align: top;"> <img src="https://github.com/user-attachments/assets/6b60d28a-20c3-4afe-8e85-4847774686fa" style="height: 200; width: 200;">
+    <td style="vertical-align: top;"> <img src="https://github.com/user-attachments/assets/c4018ec3-24cd-4127-a9cc-445d8e968233" style="height: 200; width: 200;">
     </td>
     <td style="vertical-align: top;"> <div>
         <b>Fromage</b> is a high level dynamically typed programming language compiled via a <b>C</b> compiler with custom memory management.
